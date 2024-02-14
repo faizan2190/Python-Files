@@ -1,0 +1,2 @@
+#Print contents of a large file on screen. Do not read the whole file at once; read it line by line and print each line
+emoving the next line character.

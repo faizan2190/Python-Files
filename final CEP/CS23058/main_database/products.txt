@@ -1,0 +1,10 @@
+1:Laptop:800.0:High-performance laptop for professionals:990
+2:Smartphone:300.0:Latest smartphone with advanced features:990
+3:Headphones:50.0:Over-ear headphones with noise cancellation:1000
+4:Backpack:40.0:Durable and spacious backpack for everyday use:1000
+5:Camera:500.0:Professional DSLR camera for photography enthusiasts:1000
+6:Tablet:250.0:Compact tablet with a high-resolution display:1000
+7:Wireless Mouse:20.0:Ergonomic wireless mouse for comfortable usage:1000
+8:External Hard Drive:80.0:1TB external hard drive for data storage:1000
+9:Gaming Keyboard:60.0:Mechanical gaming keyboard with customizable backlight:1000
+10:Fitness Tracker:30.0:Track your fitness goals with this sleek fitness tracker:1000

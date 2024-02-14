@@ -1,0 +1,1 @@
+Product ID:2,Product Name:Smartphone,Product Price:300.0,Quantity:10,Total Bill:3000.0

@@ -1,0 +1,10 @@
+def copy(file1,file2):
+    file=open(file1,'r')
+    content=file.readlines()
+    file.close()
+    file=open(file2,'w')
+    file.writelines(content)
+    file.close()
+file1=input('enter file name')
+file2=input('enter file name')
+copy(file1,file2)
