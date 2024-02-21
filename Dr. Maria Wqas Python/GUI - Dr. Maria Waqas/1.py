@@ -1,7 +1,8 @@
-from tkinter import Tk,Label
+# Create a button called click it by clicking it, it will print hello on shell
+from tkinter import Tk,Button
 r=Tk()
-r.title('My Window')
-r.geometry('400x400+200+0')
-lab=Label(r,text='Hello World')
-lab.pack()
+def func():
+    print("Hello")
+b=Button(r,text="Click it",command=func)
+b.pack()
 r.mainloop()
